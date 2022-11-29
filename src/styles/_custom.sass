@@ -1,19 +1,235 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    width: 100px     
+    top: 30%
+    right: 75%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float3 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    width: 100px    
+    top: 26%
+    right: 20%
+  &-3
+    animation: float4 2.8s ease-in-out infinite alternate
+    position: absolute
+    width: 80px
+    top: 70%
+    right: 33%
+           
 
 
-@keyframes float1
+@keyframes float2
+	0% 
+		transform: rotate(0deg) translateX(10px) rotate(-20deg)
+	
+
+	100% 
+		transform: rotate(180deg) translateX(10px) rotate(-180deg)  
+
+@keyframes float3
   0%
-    transform: translateY(20px)
+    transform: translatex(10px)
 
+  50%
+    transform: translatex(0px)
   100%
-    transform: translateY(0px)
+    transform: rotate(-10deg)
+
+@keyframes float4
+	0% 
+		transform: rotate(0deg) translateX(10px) rotate(-20deg)
+	
+
+	100% 
+		transform: rotate(-180deg) translateX(10px) rotate(180deg)     
+
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/4.png") !important
+.banner-principal__img
+  width: 450px !important    
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto   
+
+.bloque-fondo1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -5rem
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/2.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top  
+
+.bloque-fondo2
+  background-image: url(../assets/curso/temas/3.png)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: bottom   
+
+.tarjeta.color-acento-botones--borde
+  background-color: #EBF5E0
+  border: 4px solid #EBF5E0
+.tabs-a.color-acento-botones .tabs-a__tab__selected::before 
+  background-color: #F40B74
+
+.tabs-a.color-acento-botones .tabs-a__tab:hover, .tabs-a.color-acento-botones .tabs-a__tab:active, .tabs-a.color-acento-botones .tabs-a__tab:focus, .tabs-a.color-acento-botones .tabs-a__tab__selected
+  background-color: #F40B74 !important
+  *
+    color: white !important  
+.tabs-a__tab 
+  background-color: #E8E8E8    
+
+.bg3
+  background-color: #E0EAF1   
+  border-radius: 20px
+
+.acordion
+  .tarjeta.bg6
+    background-color: #FEF2E4
+
+.tarjeta.bg6.acordion__activo
+  background-image: url(../assets/curso/temas/12.png)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center  
+  background-color: #E3F5F7
+
+.lista-ul--color li > i:first-of-type  
+  color: #F40B74
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: rgba(255, 247, 230, 1) 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+.tarjeta.color-primario
+  background: linear-gradient(180deg, rgba(32,104,151,1) 0%, rgba(7,165,182,1) 100%)
+
+.linea-tiempo-d
+  &__item
+    &--selected
+      .linea-tiempo-d
+        &__item
+          &__content
+            background-color: #FEEBF4 !important
+            &__title
+              font-weight: $base-bold-font-weight
+          &__number
+            font-weight: $base-bold-font-weight
+    &__col-number
+      display: flex
+      flex-direction: column
+
+    &__dots
+      flex: 1
+      display: flex
+      justify-content: center
+      padding: 5px 0
+      &:after
+        content: ''
+        display: block
+        width: 0
+        height: 100%
+        border-left: 5px dotted $color-sistema-e
+    &__number
+      display: flex
+      align-items: center
+      justify-content: center
+      min-width: 40px
+      height: 40px
+      cursor: pointer
+      transition: background-color .3s ease-in-out, color .3s ease-in-out
+    &__content
+      background-color: #FEF2E4 !important     
+      &__title
+        display: flex
+        align-items: center
+        height: 40px
+        cursor: pointer
+        &:hover
+          font-weight: $base-bold-font-weight
+      &__slot
+        overflow: hidden
+        transition: height .5s ease-in-out
+  .tarjeta
+    border-radius: 5px
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #F977B2 !important
+  color: #12263F
+  
+.linea-tiempo-d__item__number
+  background-color: #F9860B !important
+
+@media (max-width: 412px)
+  .linea-tiempo-d__item__content__title 
+    height: 85px !important        
+
+.linea-tiempo-d__item__dots::after
+  border-left: 5px dotted #F9860B !important 
+
+.bg4
+  background-color: #FEF2E4
+  border-left: 0.5rem solid #F9860B    
+
+.tarjeta.color-secundario
+  background-color: #F6F6F6
+  border-left: 35px solid #F40B74 !important
+
+.tarjeta.color-secundario *
+  color: $color-sistema-texto
+
+.img-infografica__card
+  z-index: -1
+
+.img-infografica__card--selected
+  z-index: 1     
+
+.img-infograficaC.color-acento-botones .img-infograficaC__item__numero, .img-infograficaC-b.color-acento-botones .img-infograficaC__item__numero
+  color: white !important  
+
+.custom
+  .horizontal-scroll
+    align-items: stretch !important
+
+.tarjeta--slyder  
+  height: 100%
+  background-color: #FEE4F0
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+
+.custom
+  .horizontal-scroll__wrapper
+    padding: 2rem 0.5rem   
+
+.img-w
+  width: 600px !important     
