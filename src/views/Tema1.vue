@@ -12,7 +12,7 @@
           p(data-aos="fade-down") Para empezar, es importante saber que en la búsqueda de posicionamiento en el mercado, las empresas que evolucionan buscan constantemente la adopción de nuevos modelos que les garanticen mayor productividad, calidad y competitividad. En este sentido, los negocios inteligentes son una tendencia que busca integrar recursos y capacidades con el mercado y la tecnología, gerenciando estratégicamente los procesos, los recursos, las tendencias del mercado y los avances tecnológicos en el uso de la información, siendo precisamente el manejo de la información, la estrategia de direccionamiento, es decir, un negocio es inteligente, hace un uso asertivo de la información para el desarrollo y mejora de sus procesos.  
         .col-lg-5.my-3 
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4_1.png', alt='')  
-      p(data-aos="fade-down") Aquí entra en juego la inteligencia de negocios o business intelligence (BI por sus siglas en inglés), la cual es una estrategia para el desarrollo de competitividad en empresas de base tecnológica. 
+      p(data-aos="fade-down") Aquí entra en juego la inteligencia de negocios o <i>business intelligence</i> (BI por sus siglas en inglés), la cual es una estrategia para el desarrollo de competitividad en empresas de base tecnológica. 
       p(data-aos="fade-down").mb-5 Y encierra tres aspectos esenciales:     
 
     .row.justify-content-center.align-items-start
@@ -74,7 +74,9 @@
         .col-lg-6
           p La toma de decisiones está basada en el conocimiento creado, innovado, e incorporado a los procesos. Son procesos permanentes de decisiones estratégicas, en las que se mantiene la interrelación constante de los elementos del entorno interno y externo del sistema organizacional, y en el que la información es el punto de apalancamiento.  
         .col-lg-4
-          img.img-a.img-t(src='@/assets/curso/temas/11.png', alt='')   
+          img.img-a.img-t(src='@/assets/curso/temas/11.png', alt='')
+
+    p(data-aos="fade-down") Por otra parte, el modelamiento de soluciones en BI, corresponde en específico, a la estrategia de manejo de la información que se va a dar en el negocio orientado a la inteligencia del negocio.              
     p(data-aos="fade-down").mb-5 En este sentido, presentamos unas preguntas clave que debe responderse el analista empresarial encargado de llevar el modelo de inteligencia de negocios (BI) a la empresa.
     .row.justify-content-center.align-items-start
       .col-lg-3
@@ -153,7 +155,7 @@
                   i.lista-ul__vineta
                   p.mb-0 ¿Se tiene la estrategia para la recolección de información del entorno?
  
-          .row.justify-content-center.align-items-center(titulo="¿El diseño organizacional y la estructura responden a un modelo de inteligencia de necocios?")
+          .row.justify-content-center.align-items-center(titulo="¿El diseño organizacional y la estructura responden a un modelo de inteligencia de negocios?")
             .col-10
               ul.lista-ul--color
                 li 
@@ -180,9 +182,13 @@
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span Modelo de dimensiones y hechos para Pymes en inteligencia de negocios (BI) 
+          span Modelo de dimensiones y hechos para <i>Pymes</i> en inteligencia de negocios (BI) 
         img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/14.svg', alt='') 
         figcaption Nota. Tomado y adaptado de Cordero, E., Erazo, J., Narváez, C. y Cordero, D. (2020).
+    .row.justify-content-center.align-items-start.mt-5
+      .col-lg-8
+        .bg4.p-4(data-aos="flip-down")
+          p(data-aos="fade-down").mb-0 Es común pensar solo en el sistema de información computacional, es decir, en el software, pero en realidad va más allá de eso, porque no se trata solo de los recursos, sino de que la inteligencia del negocio es una estrategia organizacional para la competitividad.         
 
 </template>
 

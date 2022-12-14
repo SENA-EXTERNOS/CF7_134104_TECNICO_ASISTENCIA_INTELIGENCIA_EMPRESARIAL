@@ -11,7 +11,7 @@
         .col-lg-7.my-3  
           p(data-aos="fade-down") Al hablar de <i>Big data</i> se hace referencia a conjuntos de datos o combinaciones de conjuntos de datos, en los cuales su tamaño o volumen, su complejidad, velocidad de crecimiento y cambio o variabilidad, hace difícil técnicamente su captura, gestión, procesamiento o análisis mediante tecnologías y herramientas convencionales o tradicionales como las bases de datos o los paquetes estadísticos, obstaculizando la obtención de la información oportuna y en los parámetros requeridos por la organización. 
           .bg4.p-4(data-aos="flip-down")
-            p(data-aos="fade-down").mb-0 Además de un proceso, es una tecnología de amplio alcance, que pasó a superar a la minería de datos en cuanto a capacidad para la gestión y almacenamiento de datos. Surge como una evolución tecnológica para la gestión de datos masivos de alta complejidad, teniendo la capacidad en materia de software para capturar, organizar, procesar, evaluar y emitir conclusiones de forma veraz todo tipo de datos bajo patrones de análisis dimensionados por especialistas.         
+            p(data-aos="fade-down").mb-0 Además de un proceso, es una tecnología de amplio alcance, que pasó a superar a la minería de datos en cuanto a capacidad para la gestión y almacenamiento de datos. Surge como una evolución tecnológica para la gestión de datos masivos de alta complejidad, teniendo la capacidad en materia de <i>software</i> para capturar, organizar, procesar, evaluar y emitir conclusiones de forma veraz todo tipo de datos bajo patrones de análisis dimensionados por especialistas.         
         .col-lg-5.my-3 
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/26.png', alt='')
 
@@ -55,8 +55,8 @@
             h4.mb-4 Valor de los datos
             p.mb-0 El dato no es un valor. El valor se obtiene de datos que se transforman en información; esta a su vez se convierte en conocimiento, y este en acción o en decisión. El valor de los datos está en que sean accionables, es decir, que los responsables de las empresas puedan tomar una decisión (la mejor decisión) en base a estos datos.     
 
-      p(data-aos="fade-down") Uno de los objetivos del uso de las tecnologías <i>Big data</i> es el de transformar los datos en conocimiento útil para la empresa, y para ello se necesitan herramientas que nos ayuden a analizar, procesar y almacenar todos los datos recogidos. Un gran número de entre las mejores herramientas usadas en <i>Big data</i> son open source, lo que da fe del éxito de este modelo de desarrollo, además de las alternativas de pago.
-      p(data-aos="fade-down").mb-5 A continuación, se muestra una selección de herramientas open source que ofrecen soluciones para la explotación de software de <i>Big data</i> en todos sus procesos de almacenamiento, procesamiento y análisis, en la empresa.   
+      p(data-aos="fade-down") Uno de los objetivos del uso de las tecnologías <i>Big data</i> es el de transformar los datos en conocimiento útil para la empresa, y para ello se necesitan herramientas que nos ayuden a analizar, procesar y almacenar todos los datos recogidos. Un gran número de entre las mejores herramientas usadas en <i>Big data</i> son <i>open source</i>, lo que da fe del éxito de este modelo de desarrollo, además de las alternativas de pago.
+      p(data-aos="fade-down").mb-5 A continuación, se muestra una selección de herramientas <i>open source</i> que ofrecen soluciones para la explotación de <i>software</i> de <i>Big data</i> en todos sus procesos de almacenamiento, procesamiento y análisis, en la empresa.   
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12
@@ -67,10 +67,10 @@
 
           .tarjeta.color-secundario.p-3(x="50%" y="8%" numero="+")
             h4.mb-4 Hadoop 
-            p.mb-0 Esta herramienta se considera el framework estándar para el almacenamiento de grandes volúmenes de datos; se usa también para analizar y procesar. Utiliza modelos de programación simples para el almacenamiento y procesamiento, distribuido de grandes conjuntos de datos en clusters, dando redundancia para no perder nada y, al mismo tiempo, aprovechando muchos procesos a la vez.     
+            p.mb-0 Esta herramienta se considera el <i>framework</i> estándar para el almacenamiento de grandes volúmenes de datos; se usa también para analizar y procesar. Utiliza modelos de programación simples para el almacenamiento y procesamiento, distribuido de grandes conjuntos de datos en <i>clusters</i>, dando redundancia para no perder nada y, al mismo tiempo, aprovechando muchos procesos a la vez.     
           .tarjeta.color-secundario.p-3(x="70%" y="25%" numero="+")
             h4.mb-4 MongoDB 
-            p.mb-0 Es una base de datos orientada a documentos (guarda los datos en documentos, no en registros). Estos documentos son almacenados en BSON, que es una representación binaria de JSON.A pesar de que las bases de datos NoSQL no tienen una extensa variedad de uso, MongoDB tiene un ámbito de aplicación más amplio en diferentes tipos de proyectos: es especialmente útil en entornos que requieran escalabilidad.         
+            p.mb-0 Es una base de datos orientada a documentos (guarda los datos en documentos, no en registros). Estos documentos son almacenados en BSON, que es una representación binaria de JSON. A pesar de que las bases de datos NoSQL no tienen una extensa variedad de uso, MongoDB tiene un ámbito de aplicación más amplio en diferentes tipos de proyectos: es especialmente útil en entornos que requieran escalabilidad.         
           .tarjeta.color-secundario.p-3(x="75%" y="57%" numero="+")
             h4.mb-4 Elasticsearch 
             p.mb-0 Es una potente herramienta para la búsqueda entre grandes cantidades de datos, especialmente cuando los datos son de tipo complejo. Permite indexar y analizar en tiempo real un gran volumen de datos y hacer consultas sobre ellos. Un ejemplo de uso son las consultas de texto completo; al estar los datos indexados, los resultados se obtienen de forma muy rápida. Se utiliza como herramienta para indexar datos dentro de soluciones de entorno digital.

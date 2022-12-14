@@ -20,9 +20,9 @@
     .row.justify-content-center.align-items-start.mt-5
       .col-lg-10
         .bg4.p-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Tratándose de Big data y datos masivos, existen múltiples, productivas y exitosas herramientas de visualización de los datos, en lo cual la tecnología proporciona la visualización dinámica, simulando comportamientos, tendencias y otras generalizaciones esenciales en los grandes flujos de información, de la cual se amerita tomar decisiones.
+          p(data-aos="fade-down").mb-0 Tratándose de <i>big data</i> y datos masivos, existen múltiples, productivas y exitosas herramientas de visualización de los datos, en lo cual la tecnología proporciona la visualización dinámica, simulando comportamientos, tendencias y otras generalizaciones esenciales en los grandes flujos de información, de la cual se amerita tomar decisiones.
 
-      p(data-aos="fade-down").my-5 Es evidente que, para la visualización de los datos masivos, se amerita de software especializados, y de competencias específicas para su manejo.  A continuación, se nombran algunas herramientas de Big data utilizadas para el procesamiento y visualización de los datos en la empresa. 
+      p(data-aos="fade-down").my-5 Es evidente que, para la visualización de los datos masivos, se amerita de <i>software</i> especializados, y de competencias específicas para su manejo.  A continuación, se nombran algunas herramientas de <i>big data</i> utilizadas para el procesamiento y visualización de los datos en la empresa. 
 
     SlyderF.custom.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.tarjeta--slyder.p-0
@@ -55,7 +55,7 @@
         .bg4.p-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Los informes de datos masivos, debido a la cantidad de datos que se manejan, no pueden consistir en informes tradicionales, sino que la forma de prepararlos es con contenido visual, lo cual permite condensar la información y presentarla de una manera atractiva. Para ello, las mismas herramientas de visualización poseen “salidas” bajo diferentes combinaciones de datos, que permiten al analista “jugar” con la forma en que presenta sus informes para la audiencia respectiva. 
 
-    p(data-aos="fade-down") Es importante destacar que a pesar que los modelos estadísticos son los más comunes para la presentación de los datos numéricos, sean o no de Big data, hoy día los elementos contextuales como presentaciones con imágenes visuales, como el caso de las infografías, son un recurso en auge y que llama la atención en la comprensión de los datos, resultando éstos interpretables a primera vista, atractivo y de fácil retención tanto para el analista como para el usuario de los datos.  
+    p(data-aos="fade-down") Es importante destacar que a pesar que los modelos estadísticos son los más comunes para la presentación de los datos numéricos, sean o no de <i>big data</i>, hoy día los elementos contextuales como presentaciones con imágenes visuales, como el caso de las infografías, son un recurso en auge y que llama la atención en la comprensión de los datos, resultando éstos interpretables a primera vista, atractivo y de fácil retención tanto para el analista como para el usuario de los datos.  
     p(data-aos="fade-down").mb-5 Lo invitamos a ver el siguiente video, el cual nos presenta la normalización en la elaboración de informes.   
 
     .row.justify-content-center.align-items-center.mb-5           
@@ -67,9 +67,9 @@
     .row.justify-content-center.align-items-start.mb-5 
       .col-lg-10
         .bg4.p-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Tenga en cuenta: la propia necesidad de condensar los datos, genera la búsqueda de formas de agrupamiento, en lo cual la codificación de los datos es fundamental para su almacenaje y uso. Los software especializados, permiten la codificación automática de registros de datos en las bases de datos, para diferentes registros que permitan una administración más ordenada.
+          p(data-aos="fade-down").mb-0 Tenga en cuenta: la propia necesidad de condensar los datos, genera la búsqueda de formas de agrupamiento, en lo cual la codificación de los datos es fundamental para su almacenaje y uso. Los <i>software</i> especializados, permiten la codificación automática de registros de datos en las bases de datos, para diferentes registros que permitan una administración más ordenada.
 
-    p(data-aos="fade-down").mb-5 En la empresa, se pueden tener códigos de bases de datos para productos, clientes, proveedores, procesos. La forma de codificación la decide el analista, y a través del software se convierten los datos masivos en función de su código respectivo y correlativo cada vez que se genera un nuevo registro de datos, además de aportar seguridad en el manejo de la información. 
+    p(data-aos="fade-down").mb-5 En la empresa, se pueden tener códigos de bases de datos para productos, clientes, proveedores, procesos. La forma de codificación la decide el analista, y a través del <i>software</i> se convierten los datos masivos en función de su código respectivo y correlativo cada vez que se genera un nuevo registro de datos, además de aportar seguridad en el manejo de la información. 
 
     .row.justify-content-center.align-items-start.mb-5 
       .col-lg-10
