@@ -22,38 +22,38 @@
       p(data-aos="fade-down").mb-5 Son elementos clave en la minería de datos, los siguientes términos tecnológicos:
 
       .row.justify-content-center.mb-5
-        .col-xl-3.col-lg-3.col-md-9.col-11.mb-4.mb-xl-0
+        .col-lg-5.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/17.png", alt="alt")
+                img(src="@/assets/curso/temas/37.png", alt="alt")
             .crd_hover_txt--body
               h4.mb-3 La estadística
               p.mb-0 Como ciencia que permite el procesamiento de las frecuencias, proporciones y correlaciones de datos para hallar las relaciones internas existentes, consistencia y validez matemática de los datos.
 
-        .col-xl-3.col-lg-3.col-md-9.col-11.mb-4.mb-xl-0
+        .col-lg-5.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/18.png", alt="alt")
+                img(src="@/assets/curso/temas/38.png", alt="alt")
             .crd_hover_txt--body
               h4.mb-3 Las bases de datos
               p.mb-0 Como fuentes de los datos, tanto internas como externas al sistema empresarial.
-
-        .col-xl-3.col-lg-3.col-md-9.col-11.mb-4.mb-xl-0
+      .row.justify-content-center.mb-5
+        .col-lg-5.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/19.png", alt="alt")
+                img(src="@/assets/curso/temas/39.png", alt="alt")
             .crd_hover_txt--body
               h4.mb-3 La inteligencia artificial
               p.mb-0 El manejo de los datos a profundidad, emulando los procesos analíticos humanos, a través de <i>software</i> y/o máquinas inteligentes.
 
-        .col-xl-3.col-lg-3.col-md-9.col-11.mb-4.mb-xl-0
+        .col-lg-5.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/20.png", alt="alt")
+                img(src="@/assets/curso/temas/40.png", alt="alt")
             .crd_hover_txt--body
               h4.mb-3 El aprendizaje automático
               p.mb-0 O <i>machine learning</i> por sus siglas en inglés (LM), correspondiente al diseño de algoritmos, a través de los cuales se puede comprender el comportamiento de los datos y hacer predicciones. 
