@@ -65,13 +65,13 @@
         TabsA.color-acento-botones.mb-5
           .tarjeta.color-acento-botones--borde.p-4(titulo="Asociación")
             p En la minería de datos, es la técnica más utilizada por los analistas, porque lo que se busca con los datos masivos, es tener la mayor y mejor organización posible. Entonces, la asociación busca relación entre los datos, en la búsqueda de patrones de comportamiento, es decir, tendencias que permitan observar la dinámica de los datos y hacer predicciones. Puede ser útil en <i>marketing</i> para conocer los productos más comprados; en calidad, para conocer el conjunto de fallas más comunes en los procesos; en el análisis de proveedores, para conocer las zonas geográficas de mayor competitividad y crecimiento de la oferta, entre otros.   
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Agrupación o <i>clustering</i>")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Agrupación o<br>a <i>clustering</i>")
             p A diferencia de la asociación, esta técnica es de decisión del analista de datos, quien decide los grupos de datos, categorías, grupos o conjuntos que amerita crear para sus análisis en función de las necesidades de la empresa. Ya no se trata del origen propio de los datos, sino de la modalidad de análisis, variables y focos de interés empresarial.   
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Clasificación inteligente")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Clasificación<br>a inteligente")
             p Esta técnica es propia del aprendizaje automático. Los <i>software</i> poseen la capacidad de clasificar los elementos o variables en un conjunto de datos, en grupos o clases predefinidos, en función de su comportamiento interno. Para ello, se basa en algoritmos de programación lineal, estadísticas, árboles de decisión y redes neuronales artificiales en la minería de datos, entre otras técnicas que generan los ingenieros en sistemas o informáticos, o especialistas en matemática y computación.   
           .tarjeta.color-acento-botones--borde.p-4(titulo="Predicción")
             p Es una de las bases clave de la minería de datos para la toma de decisiones, poder predecir el comportamiento y preparar los procesos empresariales para el cambio, en la búsqueda de competitividad. Se predice, mediante algoritmos a través de los <i>software</i>, la relación entre variables, rentabilidad, volúmenes de ventas, cambios en las variables económicas del entorno, capacidades de producción, factibilidad de proyectos de inversión, entre otras.    
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Patrones secuenciales")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Patrones<br>a secuenciales")
             p Este modelo es básico para identificar tendencias constantes en el comportamiento de los datos, es decir, comportamientos predecibles. Esta técnica sirve de alerta cuando se presentan cambios, y permite a los analistas tomar decisiones oportunas. Se utiliza en gran medida para el mercadeo, en el establecimiento de patrones de compras, frecuencias de compra, y preparación de ofertas comerciales.                 
 
     .row.justify-content-center.align-items-start
@@ -83,7 +83,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Sistematización teórica de minería de datos en el área de <i>marketing</i>.
+                  h4.mb-1 Sistematización teórica de minería de datos en el área de <i>marketing</i>
                   p.mb-0 Para ampliar la información, lo invitamos a leer en el material complementario, del documento Sistematización teórica de minería de datos en el área de <i>marketing</i>.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="http://dspace.espoch.edu.ec/bitstream/123456789/13757/1/mkt_n14_09.pdf" target="_blank")
@@ -96,8 +96,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Análisis de la minería de datos aplicada en empresas del sector <i>retail.</i>
-                  p.mb-0 Para ampliar la información, lo invitamos a leer en el material complementario, del documento Análisis de la minería de datos aplicada en empresas del sector retail.
+                  h4.mb-1 Análisis de la minería de datos aplicada en empresas del sector <i>retail</i>
+                  p.mb-0 Para ampliar la información, lo invitamos a leer en el material complementario, del documento Análisis de la minería de datos aplicada en empresas del sector <i>retail</i>.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(href="https://repositorio.ucsp.edu.pe/bitstream/20.500.12590/16199/1/DONGO_POZO_ALD_MIN.pdf" target="_blank")
                     span Descargar

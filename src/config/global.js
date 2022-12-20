@@ -123,14 +123,14 @@ export default {
         'https://repositorio.ucsp.edu.pe/bitstream/20.500.12590/16199/1/DONGO_POZO_ALD_MIN.pdf',
     },
     {
-      tema: '<i>Big data<i> - Más allá de los datos masivos',
+      tema: '<i>Big data</i> - Más allá de los datos masivos',
       referencia:
         'Universidad de Navarra. (2017). Big Data: <i>¿cómo lo usan los investigadores y las grandes empresas?</i> ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ig9cwXaqR5M',
     },
     {
-      tema: '<i>Big data<i> - Más allá de los datos masivos',
+      tema: '<i>Big data</i> - Más allá de los datos masivos',
       referencia:
         'Lasso Cardona, L. A., Franco Ocampo, D. F., & Estrada-Esponda, R. D. (2022). Aplicaciones de la Datificación y Big Data en América Latina entre el 2015 y 2019. <i>Revista Logos Ciencia & Tecnología</i>, 14(2), p. 125-143. ',
       tipo: 'PDF',

@@ -188,7 +188,7 @@
     .row.justify-content-center.align-items-start.mt-5
       .col-lg-8
         .bg4.p-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Es común pensar solo en el sistema de información computacional, es decir, en el software, pero en realidad va más allá de eso, porque no se trata solo de los recursos, sino de que la inteligencia del negocio es una estrategia organizacional para la competitividad.         
+          p(data-aos="fade-down").mb-0 Es común pensar solo en el sistema de información computacional, es decir, en el <i>software</i>, pero en realidad va más allá de eso, porque no se trata solo de los recursos, sino de que la inteligencia del negocio es una estrategia organizacional para la competitividad.         
 
 </template>
 
