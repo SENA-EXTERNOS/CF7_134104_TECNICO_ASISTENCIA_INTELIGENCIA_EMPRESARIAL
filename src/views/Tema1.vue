@@ -22,7 +22,7 @@
         TabsA.color-acento-botones.mb-5
           .tarjeta.color-acento-botones--borde.p-4(titulo="Es una estrategia")
             p Se asume como direccionamiento de la empresa en el marco de objetivos de desarrollo y crecimiento. La “inteligencia” va sustentada en un enfoque de aprendizaje organizacional, que busca la gestión del conocimiento en pro de la evolución interna para proyectar una imagen más fortalecida de la empresa en el mercado, desde procesos más eficientes, efectivos y eficaces.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Es para empresas<br> de base tecnológica")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Es para empresas<br> de base <br> tecnológica")
             p Se trata de empresas en las que la tecnología de procesos y de manejo de información es esencial, porque precisamente, la tecnología es la herramienta “inteligente” que aporta la “inteligencia” en las acciones y decisiones, en los datos, en la información, en el manejo del entorno, en las tendencias. La tecnología es la base de las operaciones y, por tanto, es una estrategia organizacional. Son empresas que crecen y se desarrollan siendo la tecnología una inversión y no un gasto.
           .tarjeta.color-acento-botones--borde.p-4(titulo="La meta es<br> la competitividad")
             p Debido al crecimiento y desarrollo del mercado, las empresas deben buscar puntos de apalancamiento y elementos diferenciales, y es el uso asertivo de la información, el elemento gerencial que marca la diferencia. Una información no obtenida a tiempo o de mala calidad, genera decisiones erradas que puede ocasionar desplazamiento e incluso salida del mercado.                 
@@ -77,7 +77,7 @@
           img.img-a.img-t(src='@/assets/curso/temas/11.png', alt='')
 
     p(data-aos="fade-down") Por otra parte, el modelamiento de soluciones en BI, corresponde en específico, a la estrategia de manejo de la información que se va a dar en el negocio orientado a la inteligencia del negocio.              
-    p(data-aos="fade-down").mb-5 En este sentido, presentamos unas preguntas clave que debe responderse el analista empresarial encargado de llevar el modelo de inteligencia de negocios (BI) a la empresa.
+    p(data-aos="fade-down").mb-5 En este sentido, presentamos unas preguntas claves, que debe responder el analista empresarial, encargado de introducir el modelo de inteligencia de negocios BI en la empresa:
     .row.justify-content-center.align-items-start
       .col-lg-3
         img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/13.png', alt='')            
@@ -181,8 +181,9 @@
     .row.justify-content-center.align-items-start
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1.
-          span Modelo de dimensiones y hechos para <i>Pymes</i> en inteligencia de negocios (BI) 
+          h5 Figura 1
+          p.mb-0
+            em Modelo de dimensiones y hechos para <i>Pymes</i> en inteligencia de negocios (BI) 
         img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/14.svg', alt='') 
         figcaption Nota. Tomado y adaptado de Cordero, E., Erazo, J., Narváez, C. y Cordero, D. (2020).
     .row.justify-content-center.align-items-start.mt-5

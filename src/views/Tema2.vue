@@ -120,13 +120,14 @@
         .bg4.p-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 La garantía de calidad en la recolección y selección de los datos, busca eliminar la anomalía o datos “inservibles” a los intereses del análisis. Por ello, en esta recolección y selección los factores clave son la limpieza, enriquecimiento, reducción y transformación de los datos de las bases de datos disponibles.
 
-    p(data-aos="fade-down").mb-5 Ahora, el procesamiento computacional es el trabajo realizado por las máquinas inteligentes, es decir, los <i>software</i>, en lo cual se contemplan cinco pasos fundamentales hasta llegar al conjunto de datos finales. La siguiente figura nos presenta esos pasos.
+    p(data-aos="fade-down").mb-5 Ahora, el procesamiento computacional, es el trabajo realizado por las máquinas inteligentes, es decir, los software, donde se contemplan cinco pasos fundamentales, hasta llegar al conjunto de datos finales. La siguiente figura nos presenta esos pasos:
 
     .row.justify-content-center.align-items-start
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2.
-          span Pasos para el procesamiento computacional de datos masivos
+          h5 Figura 2
+          p.mb-0 
+            em Pasos para el procesamiento computacional de datos masivos
         img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/24.svg', alt='') 
 
       .row.justify-content-center.align-items-center.mb-5           
