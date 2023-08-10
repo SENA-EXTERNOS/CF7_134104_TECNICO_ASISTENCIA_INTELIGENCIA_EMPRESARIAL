@@ -166,7 +166,7 @@
                   p.mb-0 ¿La empresa posee metas cuantitativas de crecimiento y desarrollo?
                 li 
                   i.lista-ul__vineta
-                  p.mb-0 ¿Se poseen los recursos humanos y tecnológicos para apropiar una negocio inteligente?
+                  p.mb-0 ¿Se poseen los recursos humanos y tecnológicos para apropiar un negocio inteligente?
                 li 
                   i.lista-ul__vineta
                   p.mb-0 ¿La empresa posee la apertura (viabilidad) y los recursos (factibilidad) para la implementación de un sistema de información acorde con la Inteligencia del Negocio?

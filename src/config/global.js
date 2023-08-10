@@ -200,11 +200,11 @@ export default {
     },
   ],
   referencias: [
-    {
-      referencia:
-        'Normas APA actualizadas (7ª edición). (2022). <i>Normas APA 2022</i>.',
-      link: 'https://normas-apa.org/etiqueta/normas-apa-2022/',
-    },
+    // {
+    //   referencia:
+    //     'Normas APA actualizadas (7ª edición). (2022). <i>Normas APA 2022</i>.',
+    //   link: 'https://normas-apa.org/etiqueta/normas-apa-2022/',
+    // },
     {
       referencia:
         'Berrio, D., Higuita, S., Echeverri, M., López, E. & Valencia, S. (2020). Responsabilidad Social Empresarial y certificación en calidad: una breve relación documental. <i>Revista de estudiantes de Contaduría Pública</i>, 24, p. 1-10.',
@@ -228,10 +228,10 @@ export default {
       link:
         'https://www.forbes.com.mx/la-importancia-y-necesidad-de-las-certificaciones-en-el-proceso-de-innovacion/',
     },
-    {
-      referencia: 'Normas Icontec. (2022). <i>Normas Icontec: Guía [2022]</i>.',
-      link: 'https://normasicontec.co/',
-    },
+    // {
+    //   referencia: 'Normas Icontec. (2022). <i>Normas Icontec: Guía [2022]</i>.',
+    //   link: 'https://normasicontec.co/',
+    // },
   ],
   creditos: {
     liderEquipo: [
