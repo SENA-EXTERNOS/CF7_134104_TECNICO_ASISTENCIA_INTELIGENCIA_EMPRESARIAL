@@ -19,12 +19,12 @@
       .col-lg-3
         img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/4.png', alt='')            
       .col-lg-9
-        TabsA.color-acento-botones.mb-5
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Es una estrategia")
+        TabsC.color-acento-botones.mb-5
+          .tarjeta.color-acento-botones--borde.p-4.mb-4(titulo="Es una estrategia")
             p Se asume como direccionamiento de la empresa en el marco de objetivos de desarrollo y crecimiento. La “inteligencia” va sustentada en un enfoque de aprendizaje organizacional, que busca la gestión del conocimiento en pro de la evolución interna para proyectar una imagen más fortalecida de la empresa en el mercado, desde procesos más eficientes, efectivos y eficaces.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Es para empresas<br> de base <br> tecnológica")
+          .tarjeta.color-acento-botones--borde.p-4.mb-4(titulo="Es para empresas de base tecnológica")
             p Se trata de empresas en las que la tecnología de procesos y de manejo de información es esencial, porque precisamente, la tecnología es la herramienta “inteligente” que aporta la “inteligencia” en las acciones y decisiones, en los datos, en la información, en el manejo del entorno, en las tendencias. La tecnología es la base de las operaciones y, por tanto, es una estrategia organizacional. Son empresas que crecen y se desarrollan siendo la tecnología una inversión y no un gasto.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="La meta es<br> la competitividad")
+          .tarjeta.color-acento-botones--borde.p-4.mb-4(titulo="La meta es la competitividad")
             p Debido al crecimiento y desarrollo del mercado, las empresas deben buscar puntos de apalancamiento y elementos diferenciales, y es el uso asertivo de la información, el elemento gerencial que marca la diferencia. Una información no obtenida a tiempo o de mala calidad, genera decisiones erradas que puede ocasionar desplazamiento e incluso salida del mercado.                 
                 
       .row.justify-content-center.align-items-center.mb-5           
@@ -34,7 +34,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/5.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 Las empresas optan por desarrollarse a partir de la generación de conocimiento desde sus procesos, enriqueciendo el “know how” (saber hacer propio y diferencial), siendo el conocimiento un activo intangible que genera valor organizacional y en rentabilidad. De allí que, a la adquisición de nuevo conocimiento y de manera permanente, y su incorporación a los procesos, es lo que se concibe como inteligencia de negocios asumida como estrategia empresarial.  
+              p.mb-0 Las empresas optan por desarrollarse a partir de la generación de conocimiento desde sus procesos, enriqueciendo el “#[i know how]” (saber hacer propio y diferencial), siendo el conocimiento un activo intangible que genera valor organizacional y en rentabilidad. De allí que, a la adquisición de nuevo conocimiento y de manera permanente, y su incorporación a los procesos, es lo que se concibe como inteligencia de negocios asumida como estrategia empresarial.  
 
       p(data-aos="fade-down").mb-5 Ante el logro de una empresa bajo el modelo de “inteligente”, la meta es la creación de nuevo conocimiento, o el fortalecimiento del ya existente, a través del emprendimiento de procesos de investigación empresarial, en los que se involucra el conocimiento:     
 

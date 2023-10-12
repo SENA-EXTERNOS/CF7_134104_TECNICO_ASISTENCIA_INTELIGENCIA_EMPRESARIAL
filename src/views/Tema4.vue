@@ -39,7 +39,7 @@
         p.text-center.mb-0.p-3 Datawrapper     
       .tarjeta.tarjeta--slyder.p-0
         img(src="@/assets/curso/temas/34.png", alt="alt")    
-        p.text-center.mb-0.p-3 Ploty     
+        p.text-center.mb-0.p-3 Plotly    
       .tarjeta.tarjeta--slyder.p-0
         img(src="@/assets/curso/temas/35.png", alt="alt")    
         p.text-center.mb-0.p-3 Visual.ly    

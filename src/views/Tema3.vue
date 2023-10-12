@@ -76,7 +76,7 @@
             p.mb-0 Es una potente herramienta para la búsqueda entre grandes cantidades de datos, especialmente cuando los datos son de tipo complejo. Permite indexar y analizar en tiempo real un gran volumen de datos y hacer consultas sobre ellos. Un ejemplo de uso son las consultas de texto completo; al estar los datos indexados, los resultados se obtienen de forma muy rápida. Se utiliza como herramienta para indexar datos dentro de soluciones de entorno digital.
           .tarjeta.color-secundario.p-3(x="61%" y="84%" numero="+")
             h4.mb-4 Apache Spark 
-            p.mb-0 Es un motor de procesamiento de datos de código abierto realmente rápido. Se considera el primer <em>software open source</em> que hace la programación distribuida (muy en esencia, consiste en distribuir el trabajo entre un grupo de ordenadores, “cluster”, que trabajan como uno) realmente accesible a los científicos de datos.  
+            p.mb-0 Es un motor de procesamiento de datos de código abierto realmente rápido. Se considera el primer <em>software open source</em> que hace la programación distribuida (muy en esencia, consiste en distribuir el trabajo entre un grupo de ordenadores, “<em>cluster</em>”, que trabajan como uno) realmente accesible a los científicos de datos.  
           .tarjeta.color-secundario.p-3(x="39%" y="84%" numero="+")
             h4.mb-4 Apache Storm 
             p Es un sistema de computación distribuida en tiempo real orientado a procesar flujos constantes de datos, por ejemplo, datos de sensores que se emiten con una alta frecuencia o datos que provengan de las redes sociales, donde a veces es importante saber qué se está compartiendo en este momento.
