@@ -135,7 +135,7 @@ export default {
         'Lasso Cardona, L. A., Franco Ocampo, D. F., & Estrada-Esponda, R. D. (2022). Aplicaciones de la Datificación y Big Data en América Latina entre el 2015 y 2019. <i>Revista Logos Ciencia & Tecnología</i>, 14(2), p. 125-143. ',
       tipo: 'PDF',
       link:
-        'http://www.scielo.org.co/pdf/logos/v14n2/2422-4200-logos-14-02-125.pdf',
+        'https://www.redalyc.org/journal/5177/517775405009/517775405009.pdf',
     },
     {
       tema:
